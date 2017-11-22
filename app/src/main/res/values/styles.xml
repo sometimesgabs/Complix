@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#0dbebe</item>
+        <item name="colorPrimaryDark">#0dbebe</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="RaisedButton" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@drawable/white_grey_border_button</item>
+        <item name="colorControlHighlight">#0dbebe</item>
+        <item name="colorButtonNormal">#000</item>
+    </style>
+
+</resources>

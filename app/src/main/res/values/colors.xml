@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0dbebe</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#40ffac</color>
+
+    <color name="colorPrimaryN">#3F51B5</color>
+    <color name="colorAccentN">#FF4081</color>
+
+    <color name="colorWhite2">#bbf9f2</color>
+    <color name="colorGrey2">#c3c3c3</color>
+    <color name="colorGrey3">#f4f3f3</color>
+    <color name="colorlight">#faffaf</color>
+    <color name="colorb">#fcfddf</color>
+    <color name="colorBase">#369b92</color>
+    <color name="colorBase2">#2f9c92</color>
+    <color name="colorBase3">#1dac9a</color>
+    <color name="colorBase4">#ff285a</color>
+    <color name="colorBaseLetra">#6eaea4</color>
+    <color name="colorBaseLetra2">#84b3ab</color>
+    <color name="colorBaseLetra3">#8ba9a4</color>
+    <color name="colorBaseLetra4">#fff8f3</color>
+
+    <color name="colorWhite">#fff</color>
+    <color name="colorGrey">#fafafa</color>
+
+    <color name="colorGrey5">#f5f4f4</color>
+    <color name="colorGrey52">#fdfcfc</color>
+
+    <color name="colorDiFrag">#e37be7ff</color>
+    <color name="colorSelectSegmn">#a6fd4b87</color>
+    <color name="colorHint">#9b91d7fa</color>
+    <color name="colorBaseN">#0dbebe</color>
+    <color name="colorBaseHome">#40ffac</color>
+
+    <color name="colorTopLigero">#0dbebe</color>
+    <color name="colorTopLigero2">#fff0db</color>
+    <color name="colorTopLigeroNN">#eefff8ee</color>
+    <color name="colorGreyDesactivado">#eeefef</color>
+
+
+    <color name="colorGreyDesactivadoBlue">#0dbebe</color>
+    <color name="colorGreyDesactivadoBlue2">#0babab</color>
+    <color name="colorRayaView">#90c2c2</color>
+    <color name="colorBlanco">#fff</color>
+
+    <color name="colorLetraRFR">#b60303</color>
+    <color name="colorLetraiFR">#24b377</color>
+
+    <color name="colorGreyDesactivado2">#f9f9f9</color>
+    <color name="colorLetraRFR_M">#55390202</color>
+
+
+
+
+</resources>
